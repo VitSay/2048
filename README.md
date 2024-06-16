@@ -1,2 +1,2 @@
 # Самодельный 2048 на JS
-![[img/game_img.jpg]]
+![game_screenshot](img/game_img.jpg)
