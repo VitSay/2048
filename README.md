@@ -1,2 +1,2 @@
 # Самодельный 2048 на JS
-![game_screenshot](img/game_img.jpg)
+<img src="img/game_img.jpg" alt="Изображение игры" width="400">
